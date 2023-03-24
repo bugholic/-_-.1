@@ -1,4 +1,4 @@
-#Calculator App
+<h1>Calculator App</h1><br> 
 This is a simple calculator application built using HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division. The application also supports clearing the calculator display and deleting the last entered digit.
 
 This project was developed as a part of my internship program at Oasis Infobyte. Oasis Infobyte is a leading IT service provider that offers a wide range of services like software development, website development, mobile app development, and more. The company provides high-quality internship programs to help students gain real-world experience in the field of technology.
