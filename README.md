@@ -19,5 +19,5 @@ If you would like to contribute to the development of this application, please f
 <h1>License</h1><br>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<h1>Acknowledgments<h1><br>
+<h1>Acknowledgments</h1><br>
 The Oasis Infobyte team for providing me with this amazing internship opportunity.
